@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp">
+
+    <LinearLayout
+        android:id="@+id/lResep"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="vertical"
+        android:layout_marginRight="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginBottom="5dp">
+
+        <TextView
+            android:id="@+id/NamaResep"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nama Resep"
+            android:textColor="@color/colorPrimaryDark"
+            android:textStyle="bold"
+            android:textSize="24dp"/>
+        <TextView
+            android:id="@+id/DeskripsiResep"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="deskripsi resep"
+            android:textSize="18dp"
+            android:layout_marginRight="7dp"
+            android:layout_marginLeft="7dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="tambah text"
+            android:textSize="15dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\.android\build-cache\fb4941337514d10941b9157f3f470fd3bf323cd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\pre-dexed\debug\classes_715dd2c7b0717f3857dd87b52e28c9c86c495b21.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ResepMakanan(TugasDian)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8ec97274b7ff45c8a1888e44b2d2e94c82333ae">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0c23da663a8b87d70a66749d1ffec431dbb6eb4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\.android\build-cache\0f2a77b87a8a99dda527866cdda7f80942db0f57\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\pre-dexed\debug\classes_df5526b79ff0846826b9f8a3bf798003abc05fe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\.android\build-cache\69840b32be0aeb5482a4a2159c653d0889976259\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\pre-dexed\debug\classes_720d13bd0574e5bcee1c686c848e911f59ce2d93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\.android\build-cache\2ab04a6157d866ec8126e09fb89c817213a15fdf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\pre-dexed\debug\classes_d65689059e3ecf24a7e89a125f1563aecf40d20f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\.android\build-cache\e81807b92e7df4de60f71a38d4f3fa5be9e98d50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\pre-dexed\debug\classes_6bbaeb8fed0550a68ef20322c5f1391cb3340b9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\.android\build-cache\fb36ebf5ef2dfb0faede06d589bca80b592e35e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\pre-dexed\debug\classes_72ff8234c66c4dcc556485929b04e0274f7e31e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\.android\build-cache\584598909c2eedc49e6c43416fa5c9171ccdbc5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\pre-dexed\debug\classes_a3ba9f1038bdfe5484503bc0c6e2c2fbe68dab3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\.android\build-cache\e08a34a4bb625a8206a11d0a24331ee57db2da5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\pre-dexed\debug\classes_bcfea6956d6283d1b467f08ff500b52eabb716a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ResepMakanan(TugasDian)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ec4efa3ff0cfcd4b4d0d8e1eadf48515494cd0c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_2cb20d8a191154f60e5262b67abef1a465b55225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\.android\build-cache\80e5b73e6ebc9107456418b18670c42392f4bdf4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\pre-dexed\debug\classes_3048186a7590ac9d75074bd08e882b1d92b84617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\.android\build-cache\f8bfbaba34402aed20ec572230c42ca2d1b7707a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\pre-dexed\debug\classes_18ed6cdb286c2b5e6e5e4464cb928995ca28238c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\.android\build-cache\3ce3a921385800f1ef5cbf2017e11d2514e1304b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\pre-dexed\debug\classes_b07b5a2e40be57f9d97161860583eea04f1264ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\.android\build-cache\0b1fffdea452a0f9c07d417af9d09ba30dc94361\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\pre-dexed\debug\classes_a213ab07adbd9ed013333b02d9664fd26313402b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\ResepMakanan(TugasDian)\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_8fe92c8d173679f98753f5680180586aa6175bb1.jar" />
+    </item>
+
+</items>
